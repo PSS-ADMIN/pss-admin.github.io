@@ -1,5 +1,5 @@
 var GoogleAuth;
-var SCOPE = 'https://www.googleapis.com/auth/drive.metadata.readonly';
+var SCOPE = 'https://mail.google.com/';
 
 function handleClientLoad() {
     // Load the API's client and auth2 modules.
